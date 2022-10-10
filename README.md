@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ammartian
-- 👀 I’m interested in Programming 
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning JavaScript, Angular, C# and .NET 6
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: ammarhakimics@gmail.com
