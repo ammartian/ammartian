@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ammartian
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning JavaScript, Angular, C# and .NET 6
+- 🌱 I’m currently learning React, React Native, Next.js 14 and many more!
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: ammarhakimics@gmail.com
 
