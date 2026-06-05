@@ -1,8 +1,8 @@
 # Ammar Hakimi
 **Full-Stack Engineer · Kuala Lumpur, Malaysia**
 
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:ammarhakimics@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammarhakimi)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:ammartian.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ammartian)
 
 ---
 
