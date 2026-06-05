@@ -2,7 +2,7 @@
 **Full-Stack Engineer · Kuala Lumpur, Malaysia**
 
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:ammartian.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ammartian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammartian)
 
 ---
 
@@ -43,8 +43,3 @@ focus : Full-stack web · AI integrations · SaaS products
 ---
 
 Open to collabs and interesting problems → **ammartian.dev@gmail.com**
-
-<!---
-ammartian/ammartian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
